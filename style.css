@@ -1,0 +1,42 @@
+body {
+    background-color:rgb(229, 94, 44)
+}
+
+.first {
+    margin-top: 4vw;
+    display: flex;
+    gap: 5%;
+    align-self: center;
+    justify-self: center;
+}
+
+#country_input {
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#b1 {
+    background-color: chocolate;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 60%;
+}
+
+#b1:hover {
+    background-color: brown;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.2s ease-in-out;
+}
+
+.second {
+    align-self: center;
+    justify-self: center;
+    margin-top: 5vw;
+}
+
+#countryName {
+    align-self: center;
+    justify-self: center;
+}
