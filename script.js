@@ -75,7 +75,6 @@ const countries = {
   Iran: "https://flagcdn.com/w320/ir.png",
   Iraq: "https://flagcdn.com/w320/iq.png",
   Ireland: "https://flagcdn.com/w320/ie.png",
-  Israel: "https://flagcdn.com/w320/il.png",
   Italy: "https://flagcdn.com/w320/it.png",
   Jamaica: "https://flagcdn.com/w320/jm.png",
   Japan: "https://flagcdn.com/w320/jp.png",
